@@ -2,7 +2,9 @@
 - Create a folder and download the files.
 - Also download the JAR files from the libraries folder.
 - The SQL Queries are in source with the file name as 'sql queries', run those in SQL WorkBench.
-- The IntelliJ platform will be easier to use.
+- The IntelliJ [
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width="15" height="15" /> ]
+          platform will be easier to use.
    <br>
 <img src="https://github.com/Abhiram26prog/Electric-Bill-Management-System_Java/blob/main/Images/respect-my-opinion.gif" width="150" height="150"></img>
 
