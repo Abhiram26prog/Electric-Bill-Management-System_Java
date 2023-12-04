@@ -4,6 +4,6 @@
 - Also download the JAR files from the libraries folder.
 - The IntelliJ platform will be easier to use.
    <br>
-<img src="" width="100" height="100"></img>
+<img src="https://github.com/Abhiram26prog/Electric-Bill-Management-System_Java/blob/main/Images/respect-my-opinion.gif" width="150" height="150"></img>
 
 - Run splash.java file first. 😊🤞
