@@ -8,7 +8,11 @@
    <br>
 <img src="https://github.com/Abhiram26prog/Electric-Bill-Management-System_Java/blob/main/Images/respect-my-opinion.gif" width="150" height="150"></img>
 
-- Run splash.java file first. 😊🤞
+- Run the splash.java file first. 😊🤞
 - Features used:<br>
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="50" height="50" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="50" height="50" />
           
+The project path should be as shown below..<br>
+![image](https://github.com/Abhiram26prog/Electric-Bill-Management-System_Java/assets/59007729/fb168359-a534-4af9-8519-8cb4a38e9862)
+
+< The exeJar files are to be placed in the project path and to be added in the libraries in the project structure >
